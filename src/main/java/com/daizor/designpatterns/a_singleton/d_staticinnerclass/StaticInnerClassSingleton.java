@@ -1,4 +1,4 @@
-package com.daizor.designpatterns.singleton.d_staticinnerclass;
+package com.daizor.designpatterns.a_singleton.d_staticinnerclass;
 
 /**
  * 静态内部类单例模式(线程安全)

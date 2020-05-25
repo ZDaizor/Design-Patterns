@@ -1,4 +1,4 @@
-package com.daizor.designpatterns.singleton.a_hungry;
+package com.daizor.designpatterns.a_singleton.a_hungry;
 
 /**
  * 饿汉式单例(类加载的时候在内存中创建对象)

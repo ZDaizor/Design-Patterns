@@ -1,6 +1,6 @@
-package com.daizor.designpatterns.singleton.e_reflectdistroy;
+package com.daizor.designpatterns.a_singleton.e_reflectdistroy;
 
-import com.daizor.designpatterns.singleton.d_staticinnerclass.StaticInnerClassSingleton;
+import com.daizor.designpatterns.a_singleton.d_staticinnerclass.StaticInnerClassSingleton;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;

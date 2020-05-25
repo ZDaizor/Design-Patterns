@@ -1,4 +1,4 @@
-package com.daizor.designpatterns.singleton.c_safelazy;
+package com.daizor.designpatterns.a_singleton.c_safelazy;
 
 /**
  * 线程安全的懒汉式单例模式(双重检验锁)

@@ -1,4 +1,4 @@
-package com.daizor.designpatterns.singleton.f_enumsingleton;
+package com.daizor.designpatterns.a_singleton.f_enumsingleton;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;

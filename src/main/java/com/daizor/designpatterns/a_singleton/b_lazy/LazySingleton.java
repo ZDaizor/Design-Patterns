@@ -1,4 +1,4 @@
-package com.daizor.designpatterns.singleton.b_lazy;
+package com.daizor.designpatterns.a_singleton.b_lazy;
 
 /**
  * 懒汉式单例(用到对象的时候再去创建)

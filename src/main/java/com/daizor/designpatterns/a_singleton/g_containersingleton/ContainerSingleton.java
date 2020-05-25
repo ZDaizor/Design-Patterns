@@ -1,4 +1,4 @@
-package com.daizor.designpatterns.singleton.g_containersingleton;
+package com.daizor.designpatterns.a_singleton.g_containersingleton;
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
