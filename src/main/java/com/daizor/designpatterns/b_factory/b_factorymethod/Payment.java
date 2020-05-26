@@ -1,4 +1,4 @@
-package com.daizor.designpatterns.b_factory.b_abstractfactory;
+package com.daizor.designpatterns.b_factory.b_factorymethod;
 
 /**
  * 支付方式
